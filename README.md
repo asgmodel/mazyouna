@@ -10,12 +10,6 @@ You are a fantastic developer. Keep your CV on GitHub, exploiting Node.js GitHub
 
 ## What does this project do?
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
-
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
-
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
 
 ## Motivation
 
